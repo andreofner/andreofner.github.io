@@ -26,9 +26,9 @@ tags:
 ![image](https://user-images.githubusercontent.com/11250153/107033193-3ae8aa00-67b5-11eb-8198-8f883c9aa1a0.png)
 *Sensory state reconstruction and (long-term) prediction of the Deep Active Inference agent*
 
-
-
 ## Reinforcement learning with Human-Machine Ensemble Active Inference  
+![image](https://user-images.githubusercontent.com/11250153/107070727-fcb6af00-67e3-11eb-9b86-16164ca286a0.png)
+*Deep active inference model with shared human-machine policies.*
 
 ## Reverse inference of human preferences with top-down prediction
 ### Habitualisation of human and machine behavior
