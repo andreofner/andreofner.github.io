@@ -58,11 +58,12 @@ plugins:
 author:
   name   : "André Ofner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "https://ai.ovgu.de/Staff/Ofner.html"
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ai.ovgu.de/Staff/Ofner.html"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreofner"
 
