@@ -13,7 +13,13 @@ tags:
 *Suboptimal Active Inference agent based on short-term prediction playing the Lunar Lander game*
 
 ![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
-*Heuristic agent playing the Lunar Lander game*
+*Optimal heuristic, suboptimal heuristic agents and a human playing the Lunar Lander game*
+
+![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
+* Combined DAI-Heuristic agent playing the Lunar Lander game in shared control*
+
+![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
+* Combined Human-Machine agent playing the Lunar Lander game in shared control*
 
 
 
