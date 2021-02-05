@@ -18,4 +18,4 @@ tags:
 
 
 ![image](https://user-images.githubusercontent.com/11250153/107033193-3ae8aa00-67b5-11eb-8198-8f883c9aa1a0.png)
-* Current sensory state reconstruction and future state prediction with a Deep Active Inference agent*
+*Sensory state reconstruction and (long-term) prediction of the Deep Active Inference agent*
