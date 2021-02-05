@@ -13,7 +13,7 @@ tags:
 *Suboptimal Active Inference agent based on short-term prediction playing the Lunar Lander game*
 
 ![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
-*Optimal heuristic, suboptimal heuristic agents and a human playing autonomously*
+*Heuristic agents and a human playing autonomously*
 
 ![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
 *DAI-Heuristic agent playing the Lunar Lander game in shared control*
@@ -28,7 +28,7 @@ tags:
 
 ## Reinforcement learning with Human-Machine Ensemble Active Inference  
 ![image](https://user-images.githubusercontent.com/11250153/107070727-fcb6af00-67e3-11eb-9b86-16164ca286a0.png)
-*Deep active inference model with shared human-machine policies.*
+*Deep active inference model with human-machine control and learnable shared preferences.*
 
 ## Reverse inference of human preferences with top-down prediction
 ### Habitualisation of human and machine behavior
