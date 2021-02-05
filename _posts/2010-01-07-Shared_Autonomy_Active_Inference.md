@@ -15,11 +15,14 @@ tags:
 ![image](https://user-images.githubusercontent.com/11250153/107070727-fcb6af00-67e3-11eb-9b86-16164ca286a0.png)
 *Deep active inference model with human-machine control and learnable shared preferences.*
 
+![image](https://user-images.githubusercontent.com/11250153/107074933-b95f3f00-67e9-11eb-9c05-e1ef01708537.png)
+*The three parts of the Expected Free Energy (EFE), which are driving action selection in the model: 1) Extrinsic preference, similar to reward, resembles the
+model's (short and long-term) preferred observations, similar - but not identical - to the reward signal in traditional reinforcement learning. Terms 2) and 3) influence the models actions to visit states that resolve uncertainty about the currently inferred state or the quality of mapping from inferred state to observations. *
+
 ![image](https://user-images.githubusercontent.com/11250153/107073371-9764bd00-67e7-11eb-8ab2-d35509726adf.png)
 *Example for planning and acting in the human-machine agent. 
 The model inititally learns to meaningfully switch between human and machine control based on top-down prediction of the behavior resulting from shared control.
-In later stages of learning, the model is able to reproduce the observed behavior autonomously and behaves "as if" the human was still part of the control.
-*
+In later stages of learning, the model is able to reproduce the observed behavior autonomously and behaves "as if" the human was still part of the control.*
 
 *Heuristic agents and a human playing autonomously*
 *DAI-Heuristic agent playing the Lunar Lander game in shared control*
