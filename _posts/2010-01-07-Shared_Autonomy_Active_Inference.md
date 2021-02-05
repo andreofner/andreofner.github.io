@@ -27,10 +27,17 @@ tags:
 *Sensory state reconstruction and (long-term) prediction of the Deep Active Inference agent*
 
 
-- Reverse engineering human behavioral priors and preferences with top-down attention in shared control
 
-- Learning joint preferences and habitualised behavior
-  - state dependent human-machine team preferences
-  - state dependent machine-machine team preferences
+- 1. Shared Reinforcement learning and Free Energy Minimisation in Human-Machine Ensembles 
+
+- 2. Reverse engineering human behavioral priors and preferences with top-down attention during shared control
+  - joint control and habitualisation of human and machine behavior
+  - reconstructing human priors and preferences (goals) 
+
+- 3. Learning shared preferences and habitualised behavior
+  - learning to explore and exploit human behavior
+  - learning joint human-machine ensemble preferences
+  
+- 4. Comparing human-machine and machine-machine performance 
 
 
