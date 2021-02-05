@@ -19,7 +19,7 @@ tags:
 *The three parts of the Expected Free Energy (EFE), which are driving action selection in the model: 1) Extrinsic preferences resemble the
 model's (short and long-term) desired observations, similar - but not identical - to the reward signal in traditional reinforcement learning. Terms 2) and 3) influence the model's actions to visit states that resolve uncertainty about the currently inferred state or the quality of mapping from inferred state to observations. Here, we focus on inferring shared preferences, i.e. outcomes that are desired by both human and machine.*
 
-![image](https://user-images.githubusercontent.com/11250153/107073371-9764bd00-67e7-11eb-8ab2-d35509726adf.png)
+![image](https://user-images.githubusercontent.com/11250153/107078272-6045da00-67ee-11eb-8906-d4ff646ead3b.png)
 *Example for planning and acting in the human-machine agent. The model inititally learns to meaningfully switch between human and machine control based on top-down prediction of the behavior resulting from shared control. In later stages of learning, the model is able to reproduce the observed behavior autonomously and behaves "as if" the human was still part of the control.*
 
 Videos:
