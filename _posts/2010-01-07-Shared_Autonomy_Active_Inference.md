@@ -25,3 +25,12 @@ tags:
 
 ![image](https://user-images.githubusercontent.com/11250153/107033193-3ae8aa00-67b5-11eb-8198-8f883c9aa1a0.png)
 *Sensory state reconstruction and (long-term) prediction of the Deep Active Inference agent*
+
+
+- Reverse engineering human behavioral priors and preferences with top-down attention in shared control
+
+- Learning joint preferences and habitualised behavior
+  - state dependent human-machine team preferences
+  - state dependent machine-machine team preferences
+
+
