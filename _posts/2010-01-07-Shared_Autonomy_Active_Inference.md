@@ -20,9 +20,7 @@ tags:
 model's (short and long-term) preferred observations, similar - but not identical - to the reward signal in traditional reinforcement learning. Terms 2) and 3) influence the models actions to visit states that resolve uncertainty about the currently inferred state or the quality of mapping from inferred state to observations. *
 
 ![image](https://user-images.githubusercontent.com/11250153/107073371-9764bd00-67e7-11eb-8ab2-d35509726adf.png)
-*Example for planning and acting in the human-machine agent. 
-The model inititally learns to meaningfully switch between human and machine control based on top-down prediction of the behavior resulting from shared control.
-In later stages of learning, the model is able to reproduce the observed behavior autonomously and behaves "as if" the human was still part of the control.*
+*Example for planning and acting in the human-machine agent. The model inititally learns to meaningfully switch between human and machine control based on top-down prediction of the behavior resulting from shared control. In later stages of learning, the model is able to reproduce the observed behavior autonomously and behaves "as if" the human was still part of the control.*
 
 *Heuristic agents and a human playing autonomously*
 *DAI-Heuristic agent playing the Lunar Lander game in shared control*
