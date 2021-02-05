@@ -1,5 +1,5 @@
 ---
-title: "Post: Shared Human-Machine Autonomy with Deep Active Inference"
+title: "Shared Human-Machine Autonomy with Deep Active Inference"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
