@@ -14,3 +14,8 @@ tags:
 
 ![aaa](https://user-images.githubusercontent.com/11250153/107032445-1b04b680-67b4-11eb-8be6-3b691a3b8f2d.gif)
 *Heuristic agent playing the Lunar Lander game*
+
+
+
+![image](https://user-images.githubusercontent.com/11250153/107033193-3ae8aa00-67b5-11eb-8198-8f883c9aa1a0.png)
+* Current sensory state reconstruction and future state prediction with a Deep Active Inference agent*
