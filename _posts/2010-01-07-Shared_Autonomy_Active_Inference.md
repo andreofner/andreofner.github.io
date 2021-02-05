@@ -28,9 +28,9 @@ tags:
 
 
 
-## Shared Reinforcement learning and Free Energy Minimisation in Human-Machine Ensembles 
+## Reinforcement learning with Human-Machine Ensemble Active Inference  
 
-## Reverse engineering human preferences with top-down attention
+## Reverse inference of human preferences with top-down prediction
 ### Habitualisation of human and machine behavior
 ### Reconstructing human priors and preferences (goals) 
 
