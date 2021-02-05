@@ -8,3 +8,4 @@ tags:
   - Active Inference
 ---
 
+![image](https://user-images.githubusercontent.com/11250153/107031958-4e931100-67b3-11eb-8f94-fe4c561a9898.png)
