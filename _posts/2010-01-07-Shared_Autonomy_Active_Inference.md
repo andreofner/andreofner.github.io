@@ -28,16 +28,16 @@ tags:
 
 
 
-- 1. Shared Reinforcement learning and Free Energy Minimisation in Human-Machine Ensembles 
+# Shared Reinforcement learning and Free Energy Minimisation in Human-Machine Ensembles 
 
-- 2. Reverse engineering human behavioral priors and preferences with top-down attention during shared control
-  - joint control and habitualisation of human and machine behavior
-  - reconstructing human priors and preferences (goals) 
+# Reverse engineering human behavioral priors and preferences with top-down attention during shared control
+## Joint control and habitualisation of human and machine behavior
+## Reconstructing human priors and preferences (goals) 
 
-- 3. Learning shared preferences and habitualised behavior
-  - learning to explore and exploit human behavior
-  - learning joint human-machine ensemble preferences
+# Learning shared preferences and habitualised behavior
+## Learning to explore and exploit human behavior
+## Learning joint human-machine ensemble preferences
   
-- 4. Comparing human-machine and machine-machine performance 
+# Comparing human-machine and machine-machine performance 
 
 
